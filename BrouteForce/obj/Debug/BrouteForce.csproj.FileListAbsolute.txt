@@ -1,0 +1,13 @@
+c:\users\ברק אהרוני\documents\visual studio 2013\Projects\BrouteForce\BrouteForce\bin\Debug\BrouteForce.exe.config
+c:\users\ברק אהרוני\documents\visual studio 2013\Projects\BrouteForce\BrouteForce\bin\Debug\BrouteForce.exe
+c:\users\ברק אהרוני\documents\visual studio 2013\Projects\BrouteForce\BrouteForce\bin\Debug\BrouteForce.pdb
+c:\users\ברק אהרוני\documents\visual studio 2013\Projects\BrouteForce\BrouteForce\obj\Debug\BrouteForce.csprojResolveAssemblyReference.cache
+c:\users\ברק אהרוני\documents\visual studio 2013\Projects\BrouteForce\BrouteForce\obj\Debug\BrouteForce.exe
+c:\users\ברק אהרוני\documents\visual studio 2013\Projects\BrouteForce\BrouteForce\obj\Debug\BrouteForce.pdb
+F:\MyAttacks\BrouteForce\BrouteForce\bin\Debug\BrouteForce.exe.config
+F:\MyAttacks\BrouteForce\BrouteForce\bin\Debug\BrouteForce.exe
+F:\MyAttacks\BrouteForce\BrouteForce\bin\Debug\BrouteForce.pdb
+F:\MyAttacks\BrouteForce\BrouteForce\obj\Debug\BrouteForce.csprojAssemblyReference.cache
+F:\MyAttacks\BrouteForce\BrouteForce\obj\Debug\BrouteForce.csproj.CoreCompileInputs.cache
+F:\MyAttacks\BrouteForce\BrouteForce\obj\Debug\BrouteForce.exe
+F:\MyAttacks\BrouteForce\BrouteForce\obj\Debug\BrouteForce.pdb
